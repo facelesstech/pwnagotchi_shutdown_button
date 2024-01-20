@@ -6,3 +6,6 @@
 - Run service at boot 'sudo systemctl start pishutdown.service'
 
   * [Blog post](https://facelesstech.wordpress.com/2024/01/20/ipwnagotchi13)
+
+![alt text](https://github.com/facelesstech/pwnagotchi_shutdown_button/blob/main/PXL_20231106_090042880.jpg?raw=true)
+
