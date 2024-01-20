@@ -5,3 +5,4 @@
 - Enable service 'sudo systemctl enable pishutdown.service'
 - Run service at boot 'sudo systemctl start pishutdown.service'
 
+  * [Blog post](https://facelesstech.wordpress.com/2024/01/20/ipwnagotchi13)
