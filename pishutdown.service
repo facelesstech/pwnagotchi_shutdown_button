@@ -1,6 +1,6 @@
 [Service]
-ExecStart=/usr/bin/python /home/pi/pullup_shutdown_jessie_pi/pishutdown.py
-WorkingDirectory=/home/pi/pullup_shutdown_jessie_pi/
+ExecStart=/usr/bin/python /home/pi/pwnagotchi_shutdown_button/pishutdown.py
+WorkingDirectory=/home/pi/pwnagotchi_shutdown_button/
 Restart=always
 StandardOutput=syslog
 StandardError=syslog
